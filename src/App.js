@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path='/my-gpt' element={<Handle/>}></Route>
+      <Route path='/' element={<Handle/>}></Route>
     </Routes>
     </>
   );
